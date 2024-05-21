@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP MVC\\MVCMovie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCA824-E0B6-446A-9E64-CA338E437567}|MVCMovie\\MVCMovie.csproj|d:\\asp mvc\\mvcmovie\\mvcmovie\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DCA824-E0B6-446A-9E64-CA338E437567}|MVCMovie\\MVCMovie.csproj|solutionrelative:mvcmovie\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCA824-E0B6-446A-9E64-CA338E437567}|MVCMovie\\MVCMovie.csproj|d:\\asp mvc\\mvcmovie\\mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCA824-E0B6-446A-9E64-CA338E437567}|MVCMovie\\MVCMovie.csproj|solutionrelative:mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCA824-E0B6-446A-9E64-CA338E437567}|MVCMovie\\MVCMovie.csproj|d:\\asp mvc\\mvcmovie\\mvcmovie\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCA824-E0B6-446A-9E64-CA338E437567}|MVCMovie\\MVCMovie.csproj|solutionrelative:mvcmovie\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCA824-E0B6-446A-9E64-CA338E437567}|MVCMovie\\MVCMovie.csproj|d:\\asp mvc\\mvcmovie\\mvcmovie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DCA824-E0B6-446A-9E64-CA338E437567}|MVCMovie\\MVCMovie.csproj|solutionrelative:mvcmovie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCA824-E0B6-446A-9E64-CA338E437567}|MVCMovie\\MVCMovie.csproj|d:\\asp mvc\\mvcmovie\\mvcmovie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCA824-E0B6-446A-9E64-CA338E437567}|MVCMovie\\MVCMovie.csproj|solutionrelative:mvcmovie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCA824-E0B6-446A-9E64-CA338E437567}|MVCMovie\\MVCMovie.csproj|d:\\asp mvc\\mvcmovie\\mvcmovie\\data\\mvcmoviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DCA824-E0B6-446A-9E64-CA338E437567}|MVCMovie\\MVCMovie.csproj|solutionrelative:mvcmovie\\data\\mvcmoviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DCA824-E0B6-446A-9E64-CA338E437567}|MVCMovie\\MVCMovie.csproj|d:\\asp mvc\\mvcmovie\\mvcmovie\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DCA824-E0B6-446A-9E64-CA338E437567}|MVCMovie\\MVCMovie.csproj|solutionrelative:mvcmovie\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP MVC\\MVCMovie\\MVCMovie\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCMovie\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP MVC\\MVCMovie\\MVCMovie\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCMovie\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T23:31:28.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MVCMovieContext.cs",
+              "DocumentMoniker": "D:\\ASP MVC\\MVCMovie\\MVCMovie\\Data\\MVCMovieContext.cs",
+              "RelativeDocumentMoniker": "MVCMovie\\Data\\MVCMovieContext.cs",
+              "ToolTip": "D:\\ASP MVC\\MVCMovie\\MVCMovie\\Data\\MVCMovieContext.cs",
+              "RelativeToolTip": "MVCMovie\\Data\\MVCMovieContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T23:16:26.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\ASP MVC\\MVCMovie\\MVCMovie\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "MVCMovie\\Models\\SeedData.cs",
+              "ToolTip": "D:\\ASP MVC\\MVCMovie\\MVCMovie\\Models\\SeedData.cs",
+              "RelativeToolTip": "MVCMovie\\Models\\SeedData.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T23:10:19.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP MVC\\MVCMovie\\MVCMovie\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCMovie\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "D:\\ASP MVC\\MVCMovie\\MVCMovie\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "MVCMovie\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T23:02:28.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ASP MVC\\MVCMovie\\MVCMovie\\Views\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCMovie\\Views\\Movies\\Create.cshtml",
+              "ToolTip": "D:\\ASP MVC\\MVCMovie\\MVCMovie\\Views\\Movies\\Create.cshtml",
+              "RelativeToolTip": "MVCMovie\\Views\\Movies\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T22:54:52.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "D:\\ASP MVC\\MVCMovie\\MVCMovie\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MVCMovie\\Controllers\\MoviesController.cs",
+              "ToolTip": "D:\\ASP MVC\\MVCMovie\\MVCMovie\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MVCMovie\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T22:31:34.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP MVC\\MVCMovie\\MVCMovie\\Program.cs",
+              "RelativeDocumentMoniker": "MVCMovie\\Program.cs",
+              "ToolTip": "D:\\ASP MVC\\MVCMovie\\MVCMovie\\Program.cs",
+              "RelativeToolTip": "MVCMovie\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T23:24:32.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
